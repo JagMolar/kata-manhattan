@@ -1,3 +1,5 @@
+'use strict';
+
 function manhattanDistance(pointA, pointB){
     
     if(typeof pointA === "number" && typeof pointB === "number" )
